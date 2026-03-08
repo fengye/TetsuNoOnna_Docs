@@ -29,7 +29,7 @@ You should see a **green LED illuminate immediately**.
 If the LED does not light up:
 
 * Check that the **JST connector is firmly seated**.
-# Check the power connector fits nicely with the power socket. If the power connector has an extra big inner diameter(although not likely) the positive tip won't make contact with the power socket, so it won't provide power.
+* Check the power connector fits nicely with the power socket. If the power connector has an extra big inner diameter(although not likely) the positive tip won't make contact with the power socket, so it won't provide power.
 * Confirm that the power adapter provides **12V** and is rated for **at least 2.5A**.
 
 # Installation
