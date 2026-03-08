@@ -8,7 +8,9 @@ You will need:
 
   * Centre positive
   * Has a barrel connector with **inner diameter = 2.5mm** and **outer diameter = 5.5mm**
+  ![Ref_Adapter_Connector](images_docs/20260308_172853.jpg)
   * Rated **2.5A or above**
+  ![Ref_Adapter_Spec](images_docs/20260308_172826.jpg)
 * A **Torx T10 screwdriver** for Type A PC-FX (see [Different PC-FX Models](#different-pc-fx-models))
 * A **standard Phillips screwdriver**
 * Optionally, a **pair of tweezers** for handling small parts
