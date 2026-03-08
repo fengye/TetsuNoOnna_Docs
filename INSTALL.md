@@ -20,13 +20,16 @@ You will need:
 Before starting the installation, it is a good idea to verify that **Tetsu No Onna** works with your power adapter.
 
 1. Plug the **large JST connector** into the board.
+![Test_Plug_In](images_docs/20260308_174747.jpg)
 2. Connect the **barrel connector** from the power adapter into the jack.
+![Test_Power_Up](images_docs/20260308_174804.jpg)
 
 You should see a **green LED illuminate immediately**.
 
 If the LED does not light up:
 
 * Check that the **JST connector is firmly seated**.
+# Check the power connector fits nicely with the power socket. If the power connector has an extra big inner diameter(although not likely) the positive tip won't make contact with the power socket, so it won't provide power.
 * Confirm that the power adapter provides **12V** and is rated for **at least 2.5A**.
 
 # Installation
