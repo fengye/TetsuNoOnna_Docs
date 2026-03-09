@@ -132,7 +132,7 @@ If the LED does not light up:
 ![Step28](images_docs/20260308_143022.jpg)
 ![Step28_1](images_docs/20260308_143053.jpg)
 
-29. Connect the **large JST connector** to the back of the board (where the AC cord previously connected).
+29. Connect the **large JST connector** to the back of the board.
     The **PSU assembly is now complete**.
 ![Step29](images_docs/20260308_143236.jpg)
 ![Step29_1](images_docs/20260308_143250.jpg)
