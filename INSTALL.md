@@ -188,3 +188,10 @@ If the LED does not light up:
 * Power specifications are **moulded directly into the shell**.
 * The **BIOS chip on the motherboard has a “B” sticker**.
 * The **original PSU does not have a metal shield**.
+
+# Barrel Jack Cover for 3D Printer
+If the barrel jack cover was damaged during transporatation or installation, you can always 3D print another one and snap fit them together.
+
+[Jack Cover Top](STLs/Tetsu_No_Onna_Barrel_Jack_Cover_Top.stl)
+
+[Jack Cover Bottom](STLs/Tetsu_No_Onna_Barrel_Jack_Cover_Bottom.stl)
